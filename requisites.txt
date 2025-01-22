@@ -1,0 +1,14 @@
+notebook
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+opencv-python
+ipykernel
+common
+mtcnn
+tensorflow
+deepface
+tf-keras
+imutils
