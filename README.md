@@ -47,7 +47,7 @@ Before running the notebook, ensure that the Python kernel used in Jupyter Noteb
 
 ## Running the Code
 
-To execute the notebook, open it in Jupyter Notebook or JupyterLab from the terminal:
+To execute the notebook, open it in Jupyter Notebook from the terminal:
 
 ```bash
 jupyter notebook <notebook_name>.ipynb
