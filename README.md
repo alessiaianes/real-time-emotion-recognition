@@ -6,9 +6,9 @@ This project is a Jupyter Notebook developed in an IDE (VS Code) that implements
 
 ## Prerequisites
 
-Before running the code, ensure the following tools and libraries are installed:
+Before running the code, ensure this Python version is installed:
 
-- Python 3.9 (this works both with Tensorflow and MTCNN)
+- Python 3.9 (this works properly with both Tensorflow and MTCNN)
 
 ## Setup Instructions
 
