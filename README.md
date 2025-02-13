@@ -2,13 +2,13 @@
 
 ## Overview
 
-This project implements a real-time emotion recognition system using optical flow, face detection, and emotion analysis. The system uses a webcam feed to capture video, detects faces with MTCNN, analyzes facial emotions with DeepFace, and visualizes motion using optical flow with OpenCV.
+This project is a Jupyter Notebook developed in an IDE (VS Code) that implements a real-time emotion recognition system using optical flow, face detection, and emotion analysis. The system uses a webcam feed to capture video, detects faces with MTCNN, analyzes facial emotions with DeepFace, and visualizes motion using optical flow with OpenCV.
 
 ## Prerequisites
 
 Before running the code, ensure the following tools and libraries are installed:
 
-- Python 3.x
+- Python 3.9 (this works both with Tensorflow and MTCNN)
 
 ## Setup Instructions
 
@@ -19,7 +19,7 @@ Follow these steps to set up and run the project:
 Create a virtual environment for the project:
 
 ```bash
-python3 -m venv <environment_name>
+python -m venv <environment_name>
 ```
 
 Activate the virtual environment:
@@ -41,19 +41,12 @@ Install the necessary dependencies listed in `requisites.txt`:
 pip install -r requisites.txt
 ```
 
-### 3. Select the Kernel
+### 3. Select the Kernel and Run the Code
 
 Before running the notebook, ensure that the Python kernel used in Jupyter Notebook is set to the virtual environment you just created.
+Then run the cells sequentially in the IDE to execute the code.
 
-## Running the Code
 
-To execute the notebook, open it in Jupyter Notebook from the terminal:
-
-```bash
-jupyter notebook <notebook_name>.ipynb
-```
-
-Replace `<notebook_name>.ipynb` with the actual name of your notebook file. Select the kernel corresponding to the virtual environment, and run the cells sequentially to execute the code.
 
 ## Key Features
 
