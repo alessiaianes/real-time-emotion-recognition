@@ -8,7 +8,7 @@ This project is a Jupyter Notebook developed in an IDE (VS Code) that implements
 
 Before running the code, ensure this Python version is installed:
 
-- Python 3.10 (this works properly with both Tensorflow and MTCNN)
+- Python 3.10 (this works properly with all libraries)
 
 ## Setup Instructions
 
